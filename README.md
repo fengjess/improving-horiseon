@@ -6,6 +6,7 @@ Horiseon's website failed to meet accessibility standards. Its codebase required
 
     - Added semantic HTML elements
     - Restructued the coding
+    - Consolidated CSS selectors
     - Added alt attributes to images
     - Improved its title for search engine optimization
 
